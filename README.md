@@ -1,0 +1,1 @@
+Ridworld Tools to Burn, Transfer or Accept NFTs on he XRPL. It sets up a local server, then you have the 3 tools on the browser. You need to have your API key created in Xaman Developer Console and have an app there.
